@@ -110,6 +110,15 @@ const HomePage: React.FC<HomePageProps> = ({ setActiveSection }) => {
               );
             })}
           </div>
+
+ <div className="flex justify-center mt-20">
+      <img
+        src="/podcast/bacho.jpg"
+        alt="Bác Hồ và QR Podcast"
+        className="rounded-lg shadow-lg max-w-lg"
+      />
+    </div>
+
         </div>
       </section>
 
