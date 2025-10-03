@@ -11,7 +11,7 @@ const UnityStories: React.FC = () => {
       period: '1941-1945',
       location: 'Toàn quốc',
       category: 'Lịch sử',
-      image: 'https://images.pexels.com/photos/8923810/pexels-photo-8923810.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/podcast/mattranvietminh.jpg',
       summary: 'Sự đoàn kết của các tầng lớp nhân dân trong Mặt trận Việt Minh',
       content: `Năm 1941, tại Pác Bó, Cao Bằng, Chủ tịch Hồ Chí Minh đã khởi xướng thành lập Mặt trận Việt Minh - một tổ chức đoàn kết rộng lớn nhất trong lịch sử dân tộc.
 
@@ -28,7 +28,7 @@ Mặt trận Việt Minh đã tập hợp được mọi tầng lớp nhân dân
       period: '1946-1954',
       location: 'Điện Biên Phủ',
       category: 'Kháng chiến',
-      image: 'https://images.pexels.com/photos/8923811/pexels-photo-8923811.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/podcast/doanketdantoc.jpg',
       summary: 'Đồng bào các dân tộc cùng nhau góp sức cho chiến thắng Điện Biên Phủ',
       content: `Chiến dịch Điện Biên Phủ không chỉ là thắng lợi của quân đội mà còn là minh chứng rõ nét nhất cho tinh thần đại đoàn kết dân tộc.
 
@@ -47,7 +47,7 @@ Không phân biệt dân tộc nào, tất cả đều coi chiến thắng của
       period: '1945-nay',
       location: 'Khắp cả nước',
       category: 'Đời sống',
-      image: 'https://images.pexels.com/photos/8923812/pexels-photo-8923812.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/podcast/thientai.jpg',
       summary: 'Tinh thần "tương thân tương ái" của các dân tộc Việt Nam',
       content: `Mỗi khi có thiên tai, lũ lụt xảy ra ở bất kỳ vùng miền nào, tinh thần đoàn kết của các dân tộc Việt Nam lại tỏa sáng.
 
@@ -66,7 +66,7 @@ Ngược lại, khi vùng cao có khó khăn, đồng bào miền xuôi cũng nh
       period: '1945-nay',
       location: 'Toàn quốc',
       category: 'Tôn giáo',
-      image: 'https://images.pexels.com/photos/8923813/pexels-photo-8923813.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/podcast/tongiao.jpg',
       summary: 'Sự hòa hợp giữa các tôn giáo trong việc xây dựng đất nước',
       content: `Chủ tịch Hồ Chí Minh đã khẳng định: "Tôn giáo và không tôn giáo đều là con em của Tổ quốc". Chính sách này đã tạo nên sự đoàn kết tôn giáo độc đáo ở Việt Nam.
 
@@ -85,7 +85,7 @@ Hay như trong đại dịch COVID-19, các cơ sở tôn giáo đã trở thàn
       period: '1890-nay',
       location: 'Làng Sen, Nghệ An',
       category: 'Quê hương',
-      image: 'https://images.pexels.com/photos/8923814/pexels-photo-8923814.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: '/podcast/hoasen.jpg',
       summary: 'Nơi sinh ra tư tưởng đoàn kết của Chủ tịch Hồ Chí Minh',
       content: `Làng Sen - quê hương của Chủ tịch Hồ Chí Minh - chính là nơi đầu tiên hình thành tư tưởng đoàn kết trong tâm hồn Người.
 
